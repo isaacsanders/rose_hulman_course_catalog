@@ -1,0 +1,7 @@
+h1 Academic Departments
+
+- if @departments.present?
+  - @departments.each do |department|
+    = link_to department.name, dept_path(department)
+- else
+  p There are no departments supported at this time. Please be patient.

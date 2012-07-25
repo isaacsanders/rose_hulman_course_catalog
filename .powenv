@@ -1,0 +1,12 @@
+export PATH ; PATH="/Users/isaac/.rvm/gems/ruby-1.9.3-p194@rose_hulman_course_catalog/bin:/Users/isaac/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/isaac/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/isaac/.rvm/bin:$PATH"
+export rvm_env_string ; rvm_env_string='ruby-1.9.3-p194@rose_hulman_course_catalog'
+export rvm_path ; rvm_path='/Users/isaac/.rvm'
+export rvm_ruby_string ; rvm_ruby_string='ruby-1.9.3-p194'
+export rvm_gemset_name ; rvm_gemset_name='rose_hulman_course_catalog'
+export RUBY_VERSION ; RUBY_VERSION='ruby-1.9.3-p194'
+export GEM_HOME ; GEM_HOME='/Users/isaac/.rvm/gems/ruby-1.9.3-p194@rose_hulman_course_catalog'
+export GEM_PATH ; GEM_PATH='/Users/isaac/.rvm/gems/ruby-1.9.3-p194@rose_hulman_course_catalog:/Users/isaac/.rvm/gems/ruby-1.9.3-p194@global'
+export MY_RUBY_HOME ; MY_RUBY_HOME='/Users/isaac/.rvm/rubies/ruby-1.9.3-p194'
+export IRBRC ; IRBRC='/Users/isaac/.rvm/rubies/ruby-1.9.3-p194/.irbrc'
+unset MAGLEV_HOME
+unset RBXOPT

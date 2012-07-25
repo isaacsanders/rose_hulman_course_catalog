@@ -3,7 +3,7 @@ RoseHulmanCourseCatalog::Application.routes.draw do
     resources :depts, :controller => 'api/academic_departments', :only => [:index, :show]
   end
 
-
+  root :to => 'academic_departments#index'
 
   # Sample of regular route:
   #   match 'products/:id' => 'catalog#view'
